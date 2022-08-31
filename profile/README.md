@@ -1,12 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+ℹ️ This is Flake - new platform+messenger, made by people 4 people, as free as possible (yet). We still a little project, but we're trying to expand.
 
-**Here are some ideas to get you started:**
+🤷 We still in alpha-test state, but if you just pay your attention & attention of your friends - we'll pleased!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👩‍💻 We still don't have any docs or some like, but when base front of site will developed - we'll publish the docs.
+
+🍿 What do we eat for breakfast? Hmmm... We drinking coffee. Much much coffee. :) ~~But if you donate us - we'll can eat sth. instead of coffee~~
+
+🌐 Languages for communicate us - russian (native) & english
+
+## Have a nice day/night, guys! CU 🔜
