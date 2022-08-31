@@ -2,7 +2,7 @@
 
 ℹ️ This is Flake - new platform+messenger, made by people 4 people, as free as possible (yet). We still a little project, but we're trying to expand. Also we are trying to take into account the shortcomings of other platforms and come up with our own features.
 
-©️ Inspired by projects such as: [Discord](https://discord.com), [Telegram](https://telegram.org), [Reddit](https://reddit.com)
+🔨 Inspired by projects such as: [Discord](https://discord.com), [Telegram](https://telegram.org), [Reddit](https://reddit.com)
 
 🤷 We still in alpha-test state, but if you just pay your attention & attention of your friends - we'll pleased!
 
