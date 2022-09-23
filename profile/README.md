@@ -8,7 +8,7 @@
 
 👩‍💻 We don't have any docs or something like it right now but we'll publish them when the base of the frontend will be developed.
 
-🍿 What do we eat for breakfast? Hmmm... We are drinking coffee. Much much coffee. :) ~~But if you will donate us we'll be able to eat sth instead of coffee~~
+🍿 What do we eat for breakfast? Hmmm... We are drinking coffee. Much much coffee. :) ~~But if you will donate us we'll be able to eat sth other than coffee~~
 
 🌐 Languages for communicate us - Russian & English.
 
