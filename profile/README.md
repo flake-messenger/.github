@@ -6,11 +6,13 @@
 
 🤷 We still in alpha-test state, but if you just pay your attention & attention of your friends - we'll be pleased!
 
-👩‍💻 We don't have any docs or something like it right now but when the base of the frontend will be developed - we'll publish the docs.
+👩‍💻 We don't have any docs or something like it right now but we'll publish them when the base of the frontend will be developed.
 
-🍿 What do we eat for breakfast? Hmmm... We are drinking coffee. Much much coffee. :) ~~But if you donate us - we'll be able to eat sth instead of coffee~~
+🍿 What do we eat for breakfast? Hmmm... We are drinking coffee. Much much coffee. :) ~~But if you will donate us we'll be able to eat sth instead of coffee~~
 
 🌐 Languages for communicate us - Russian & English.
+
+💸 Donate us money? Well, currently we have no ways for that but if you're really wanna donate us money then you can contact us in our Discord!
 
 👥 Contacts:
  - [Discord](https://discord.gg/dwTx3mGPwR)
