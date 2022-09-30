@@ -17,7 +17,7 @@
 👥 Contacts:
  - [Discord](https://discord.gg/dwTx3mGPwR)
  - [Reddit](https://reddit.com/r/flake_messenger)
- - [Telegram](https://t.me/flake_messenger)
+ - [Telegram](https://t.me/+kZ6-uhE7XDBkZTQy)
  - Twitter (Comming Soon!)
  - Or contacts of our team
 
