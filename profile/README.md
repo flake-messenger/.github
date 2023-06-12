@@ -23,6 +23,6 @@
 
 🧑‍🤝‍🧑 Our team:
  - [Lokilife#3331](https://github.com/Lokilife) (frontend, backend, design, sys. administration)
- - [ニキタ#0001 (ChA0S_f4me)](https://github.com/ChA0S-f4me) (backend, android, sys. administration and little bit design)
+ - [ChA0S_f4me#0001](https://github.com/ChA0S-f4me) (backend, android, sys. administration and little bit design)
 
 ### Have a nice day/night, guys! CU 🔜
