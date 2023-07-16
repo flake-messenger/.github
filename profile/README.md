@@ -22,7 +22,7 @@
  - Or contacts of our team
 
 🧑‍🤝‍🧑 Our team:
- - [Lokilife#3331](https://github.com/Lokilife) (frontend, backend, design, sys. administration)
- - [ChA0S_f4me#0001](https://github.com/ChA0S-f4me) (backend, android, sys. administration and little bit design)
+ - [lokilife](https://github.com/Lokilife) (frontend, backend, design, sys. administration)
+ - [zxcqirara](https://github.com/zxcqirara) (backend, android, sys. administration and little bit design)
 
 ### Have a nice day/night, guys! CU 🔜
