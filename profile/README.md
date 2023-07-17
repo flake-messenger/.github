@@ -23,7 +23,7 @@
 
 🧑‍🤝‍🧑 Our team:
  - ~~[lokilife](https://github.com/Lokilife) (frontend, design, sys. administration)~~
- - [zxcqirara](https://github.com/zxcqirara) (backend, android, sys. administration and little bit design)
+ - [zxcqirara](https://github.com/zxcqirara) (backend, sys. administration and little bit design)
  - [risdeveau](https://github.com/VerySweetBread) (android, sys. administration)
 
 ### Have a nice day/night, guys! CU 🔜
